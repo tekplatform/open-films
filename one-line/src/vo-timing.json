@@ -1,0 +1,537 @@
+{
+ "end": 239.25,
+ "cues": [
+  {
+   "id": "c0.1",
+   "section": "C0",
+   "text": "AI isn't just evolving anymore.",
+   "start": 8.15,
+   "end": 10.47
+  },
+  {
+   "id": "c0.2",
+   "section": "C0",
+   "text": "It's accelerating.",
+   "start": 10.95,
+   "end": 12.15
+  },
+  {
+   "id": "c0.3",
+   "section": "C0",
+   "text": "Every single week, there's a new model.",
+   "start": 12.87,
+   "end": 15.19
+  },
+  {
+   "id": "c0.4",
+   "section": "C0",
+   "text": "A new capability.",
+   "start": 15.59,
+   "end": 16.63
+  },
+  {
+   "id": "c0.5",
+   "section": "C0",
+   "text": "A new breakthrough.",
+   "start": 17.03,
+   "end": 18.15
+  },
+  {
+   "id": "c0.6",
+   "section": "C0",
+   "text": "But let's be honest…",
+   "start": 18.85,
+   "end": 19.89
+  },
+  {
+   "id": "c0.7",
+   "section": "C0",
+   "text": "can anyone actually keep up?",
+   "start": 20.37,
+   "end": 22.37
+  },
+  {
+   "id": "c1.1",
+   "section": "C1",
+   "text": "To create something truly beautiful, you're suddenly expected to understand",
+   "start": 23.75,
+   "end": 28.39
+  },
+  {
+   "id": "c1.2",
+   "section": "C1",
+   "text": "prompt engineering,",
+   "start": 28.55,
+   "end": 29.59
+  },
+  {
+   "id": "c1.3",
+   "section": "C1",
+   "text": "filmmaking,",
+   "start": 29.91,
+   "end": 30.63
+  },
+  {
+   "id": "c1.4",
+   "section": "C1",
+   "text": "design,",
+   "start": 31.03,
+   "end": 31.35
+  },
+  {
+   "id": "c1.5",
+   "section": "C1",
+   "text": "editing,",
+   "start": 31.83,
+   "end": 32.07
+  },
+  {
+   "id": "c1.6",
+   "section": "C1",
+   "text": "and complex production pipelines.",
+   "start": 32.47,
+   "end": 34.31
+  },
+  {
+   "id": "c1.7",
+   "section": "C1",
+   "text": "All at once.",
+   "start": 34.79,
+   "end": 35.75
+  },
+  {
+   "id": "c1.8",
+   "section": "C1",
+   "text": "You spend more time learning the tools than actually creating with them.",
+   "start": 36.65,
+   "end": 40.25
+  },
+  {
+   "id": "c1.9",
+   "section": "C1",
+   "text": "Every time a new model arrives:",
+   "start": 41.05,
+   "end": 42.73
+  },
+  {
+   "id": "c1.10",
+   "section": "C1",
+   "text": "another workflow.",
+   "start": 43.25,
+   "end": 44.17
+  },
+  {
+   "id": "c1.11",
+   "section": "C1",
+   "text": "Another interface.",
+   "start": 44.57,
+   "end": 45.69
+  },
+  {
+   "id": "c1.12",
+   "section": "C1",
+   "text": "Another learning curve.",
+   "start": 46.09,
+   "end": 47.37
+  },
+  {
+   "id": "c1.13",
+   "section": "C1",
+   "text": "It shouldn't be this hard.",
+   "start": 48.77,
+   "end": 50.21
+  },
+  {
+   "id": "c2.1",
+   "section": "C2",
+   "text": "What if you didn't need to know which model is winning today?",
+   "start": 51.25,
+   "end": 54.37
+  },
+  {
+   "id": "c2.2",
+   "section": "C2",
+   "text": "What if you could just…",
+   "start": 55.01,
+   "end": 56.21
+  },
+  {
+   "id": "c2.3",
+   "section": "C2",
+   "text": "talk?",
+   "start": 56.85,
+   "end": 57.09
+  },
+  {
+   "id": "c2.4",
+   "section": "C2",
+   "text": "Tell your agent what you want to create.",
+   "start": 57.79,
+   "end": 59.95
+  },
+  {
+   "id": "c2.5",
+   "section": "C2",
+   "text": "Bring an idea.",
+   "start": 60.45,
+   "end": 61.25
+  },
+  {
+   "id": "c2.6",
+   "section": "C2",
+   "text": "Bring a product.",
+   "start": 61.73,
+   "end": 62.61
+  },
+  {
+   "id": "c2.7",
+   "section": "C2",
+   "text": "Bring a photograph.",
+   "start": 62.93,
+   "end": 63.97
+  },
+  {
+   "id": "c2.8",
+   "section": "C2",
+   "text": "Or simply discover something that inspires you.",
+   "start": 64.53,
+   "end": 67.41
+  },
+  {
+   "id": "c2.9",
+   "section": "C2",
+   "text": "Behind the scenes, your agent understands your intent,",
+   "start": 68.01,
+   "end": 71.13
+  },
+  {
+   "id": "c2.10",
+   "section": "C2",
+   "text": "picks the right tools,",
+   "start": 71.53,
+   "end": 72.65
+  },
+  {
+   "id": "c2.11",
+   "section": "C2",
+   "text": "and shows you the plan before anything is made.",
+   "start": 73.09,
+   "end": 75.61
+  },
+  {
+   "id": "c2.12",
+   "section": "C2",
+   "text": "You approve.",
+   "start": 76.21,
+   "end": 76.93
+  },
+  {
+   "id": "c2.13",
+   "section": "C2",
+   "text": "Your agent handles the rest.",
+   "start": 77.33,
+   "end": 78.77
+  },
+  {
+   "id": "c2.14",
+   "section": "C2",
+   "text": "No model hunting.",
+   "start": 79.47,
+   "end": 80.51
+  },
+  {
+   "id": "c2.15",
+   "section": "C2",
+   "text": "No complicated pipelines.",
+   "start": 80.83,
+   "end": 82.43
+  },
+  {
+   "id": "c2.16",
+   "section": "C2",
+   "text": "No prompt engineering required.",
+   "start": 82.75,
+   "end": 84.51
+  },
+  {
+   "id": "c2.17",
+   "section": "C2",
+   "text": "Just your imagination.",
+   "start": 85.21,
+   "end": 86.41
+  },
+  {
+   "id": "c2.18",
+   "section": "C2",
+   "text": "And a conversation.",
+   "start": 87.05,
+   "end": 88.25
+  },
+  {
+   "id": "c3.1",
+   "section": "C3",
+   "text": "From inspiration to creation.",
+   "start": 92.5,
+   "end": 94.58
+  },
+  {
+   "id": "c3.2",
+   "section": "C3",
+   "text": "Discover something you love.",
+   "start": 97.5,
+   "end": 99.1
+  },
+  {
+   "id": "c3.3",
+   "section": "C3",
+   "text": "Make it your own.",
+   "start": 107.5,
+   "end": 108.38
+  },
+  {
+   "id": "c4.1",
+   "section": "C4",
+   "text": "Because behind every card is a living template.",
+   "start": 116.25,
+   "end": 119.53
+  },
+  {
+   "id": "c4.2",
+   "section": "C4",
+   "text": "Not a rigid preset, but a creative intent.",
+   "start": 120.33,
+   "end": 123.61
+  },
+  {
+   "id": "c4.3",
+   "section": "C4",
+   "text": "Your agent understands the original vision.",
+   "start": 125.41,
+   "end": 127.97
+  },
+  {
+   "id": "c4.4",
+   "section": "C4",
+   "text": "The movement.",
+   "start": 128.57,
+   "end": 129.41
+  },
+  {
+   "id": "c4.5",
+   "section": "C4",
+   "text": "The rhythm.",
+   "start": 129.69,
+   "end": 130.37
+  },
+  {
+   "id": "c4.6",
+   "section": "C4",
+   "text": "The atmosphere.",
+   "start": 130.73,
+   "end": 131.73
+  },
+  {
+   "id": "c4.7",
+   "section": "C4",
+   "text": "The visual language.",
+   "start": 132.17,
+   "end": 133.49
+  },
+  {
+   "id": "c4.8",
+   "section": "C4",
+   "text": "Then reimagines that creative world around your photo.",
+   "start": 134.29,
+   "end": 137.89
+  },
+  {
+   "id": "c4.9",
+   "section": "C4",
+   "text": "Your product.",
+   "start": 138.45,
+   "end": 139.33
+  },
+  {
+   "id": "c4.10",
+   "section": "C4",
+   "text": "Your story.",
+   "start": 139.77,
+   "end": 140.53
+  },
+  {
+   "id": "c5.1",
+   "section": "C5",
+   "text": "And here's the beautiful part.",
+   "start": 143.75,
+   "end": 145.43
+  },
+  {
+   "id": "c5.2",
+   "section": "C5",
+   "text": "You don't need to know the language of filmmaking.",
+   "start": 146.07,
+   "end": 148.47
+  },
+  {
+   "id": "c5.3",
+   "section": "C5",
+   "text": "Push in.",
+   "start": 149.17,
+   "end": 149.73
+  },
+  {
+   "id": "c5.4",
+   "section": "C5",
+   "text": "Dolly out.",
+   "start": 150.21,
+   "end": 150.93
+  },
+  {
+   "id": "c5.5",
+   "section": "C5",
+   "text": "Fisheye.",
+   "start": 151.33,
+   "end": 151.89
+  },
+  {
+   "id": "c5.6",
+   "section": "C5",
+   "text": "Bird's-eye.",
+   "start": 152.24,
+   "end": 152.88
+  },
+  {
+   "id": "c5.7",
+   "section": "C5",
+   "text": "Lens choices.",
+   "start": 153.28,
+   "end": 154.24
+  },
+  {
+   "id": "c5.8",
+   "section": "C5",
+   "text": "Lighting.",
+   "start": 154.48,
+   "end": 155.04
+  },
+  {
+   "id": "c5.9",
+   "section": "C5",
+   "text": "None of that is your job.",
+   "start": 155.84,
+   "end": 157.28
+  },
+  {
+   "id": "c5.10",
+   "section": "C5",
+   "text": "You bring the product.",
+   "start": 158.28,
+   "end": 159.4
+  },
+  {
+   "id": "c5.11",
+   "section": "C5",
+   "text": "Your agent directs the shot.",
+   "start": 159.88,
+   "end": 161.4
+  },
+  {
+   "id": "c6.1",
+   "section": "C6",
+   "text": "A single photograph can become a cinematic experience.",
+   "start": 166.25,
+   "end": 169.93
+  },
+  {
+   "id": "c6.4",
+   "section": "C6",
+   "text": "A screenshot can become something you're wearing.",
+   "start": 171.63,
+   "end": 174.11
+  },
+  {
+   "id": "c6.4b",
+   "section": "C6",
+   "text": "Every piece you photograph settles into your wardrobe.",
+   "start": 175.61,
+   "end": 178.73
+  },
+  {
+   "id": "c6.4c",
+   "section": "C6",
+   "text": "See it on you, before you buy.",
+   "start": 181.33,
+   "end": 183.49
+  },
+  {
+   "id": "c6.2",
+   "section": "C6",
+   "text": "A fashion image can become a moving editorial.",
+   "start": 187.19,
+   "end": 190.15
+  },
+  {
+   "id": "c6.3",
+   "section": "C6",
+   "text": "The ad you admire becomes yours.",
+   "start": 192.05,
+   "end": 194.45
+  },
+  {
+   "id": "c6.3b",
+   "section": "C6",
+   "text": "In your language.",
+   "start": 195.1,
+   "end": 196.3
+  },
+  {
+   "id": "c6.3c",
+   "section": "C6",
+   "text": "And brought to life.",
+   "start": 196.95,
+   "end": 198.23
+  },
+  {
+   "id": "c6.5",
+   "section": "C6",
+   "text": "One idea.",
+   "start": 211.5,
+   "end": 212.3
+  },
+  {
+   "id": "c6.6",
+   "section": "C6",
+   "text": "One conversation.",
+   "start": 212.7,
+   "end": 213.82
+  },
+  {
+   "id": "c6.7",
+   "section": "C6",
+   "text": "Endless ways to create.",
+   "start": 214.3,
+   "end": 215.82
+  },
+  {
+   "id": "c7.1",
+   "section": "C7",
+   "text": "The models will keep changing.",
+   "start": 217.5,
+   "end": 219.18
+  },
+  {
+   "id": "c7.2",
+   "section": "C7",
+   "text": "Every single week.",
+   "start": 219.66,
+   "end": 221.02
+  },
+  {
+   "id": "c7.3",
+   "section": "C7",
+   "text": "You don't have to.",
+   "start": 222.12,
+   "end": 223.0
+  }
+ ]
+}
